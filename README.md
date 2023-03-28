@@ -5,10 +5,6 @@
 
 I am a skilled Full Stack Developer with experience in developing and delivering high-quality web applications. I have a passion for building exceptional user experiences and solving complex problems along the way. Throughout my career, I have demonstrated my ability to build scalable, modular, and performant applications.
 
-## Education
-
-- Bachelor's Degree in Computer Science
-- Master's Degree in Computer Engineering
 
 ## Technical Skills
 
@@ -19,7 +15,7 @@ I am a skilled Full Stack Developer with experience in developing and delivering
 
 ## Professional Experience
 
-### Full Stack Developer at XYZ Company
+### Full Stack Developer at @seemon Company
 
 #### October 2019 - Present
 
@@ -28,7 +24,7 @@ I am a skilled Full Stack Developer with experience in developing and delivering
 - Implement testing and debugging strategies to ensure high application quality.
 - Manage and deploy the application on AWS and Heroku.
 
-### Full Stack Developer at ABC Agency
+### Full Stack Developer at @seekaweb Agency
 
 #### June 2017 - October 2019
 
